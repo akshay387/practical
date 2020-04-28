@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-04-28T13:56:35 IST" name="Default suite" finished-at="2020-04-28T13:57:31 IST" duration-ms="55786">
+    <groups>
+    </groups>
+    <test started-at="2020-04-28T13:56:35 IST" name="Default test" finished-at="2020-04-28T13:57:31 IST" duration-ms="55786">
+      <class name="com.pracc.com.TestMeApppp.practical">
+        <test-method is-config="true" signature="getdriver()[pri:0, instance:com.pracc.com.TestMeApppp.practical@7692d9cc]" started-at="2020-04-28T13:56:35 IST" name="getdriver" finished-at="2020-04-28T13:57:01 IST" duration-ms="26090" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getdriver -->
+        <test-method signature="aboutus_chn()[pri:0, instance:com.pracc.com.TestMeApppp.practical@7692d9cc]" started-at="2020-04-28T13:57:01 IST" name="aboutus_chn" finished-at="2020-04-28T13:57:31 IST" duration-ms="29624" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aboutus_chn -->
+      </class> <!-- com.pracc.com.TestMeApppp.practical -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
